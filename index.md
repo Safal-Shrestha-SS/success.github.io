@@ -7,10 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+<meta name="google-site-verification" content="lcEyVOHW0zLMZcJe9K6Ue3udWmBK6vemcwl9AFx1eGQ" />
 ```markdown
 Syntax highlighted code block
-
 # Header 1
 ## Header 2
 ### Header 3
